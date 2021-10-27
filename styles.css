@@ -1,0 +1,35 @@
+h1 {
+    color:blue;
+    background-color: yellow;
+    font-family: Helvetica, Georgia;
+    text-align: center; 
+}
+
+h1,
+.recipe-head {
+    background-color: blueviolet;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h3 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:italic;
+    color:crimson;
+}
+
+.main-button {
+    background-color: yellow;
+    color: darkgreen;
+    font-weight: 700;
+}
+
+.img {
+    width: 200px;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    padding: 30px;
+}
